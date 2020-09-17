@@ -1,0 +1,22 @@
+.police
+{
+	font-family: Courier New;
+}
+
+p , ul, h4, blockquote
+{
+	font-size: 18px;
+}
+
+*
+{
+	color: #444;
+	line-height: 1.4;
+}
+
+em
+{
+	font-style: italic;
+}
+
+
